@@ -1,5 +1,5 @@
 Hi, I’m @chzos 👋. 
-I’m an entrepreneur interested in the future of web development, digital marketing, statistics, automation, copyright law, and open-source.
+I’m currently studying JavaScript, Ruby, and Java.
 
 <!---
 chzos/chzos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
