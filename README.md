@@ -7,7 +7,7 @@
 
 <h1>What do I do?</h1>
 <p>
-  Like all software developers, I want to change the world and leave a lasting positive impact on society.
+  Like all software developers, I want to change the world and leave a lasting positive impact on society. You can also see what I listen to here: https://open.spotify.com/user/chzos
 </p>
 
 <h1>When will I stop coding?</h1>
