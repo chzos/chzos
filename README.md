@@ -1,5 +1,6 @@
-Hello, world. I’m @chzos 👋. I create apps, and SaaS products.
-I’m currently studying JavaScript, Ruby, and Dart.
+#Who am I?
+Hello, world. I’m @chzos 👋. I create apps, and SaaS products.\
+I’m currently studying JavaScript, Ruby, and Dart.\
 In my free time I use the Godot Engine to build 2D games.
 
 <!---
